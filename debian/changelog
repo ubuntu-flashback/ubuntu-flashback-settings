@@ -1,0 +1,11 @@
+ubuntu-flashback-settings (0.1~wily2) wily; urgency=medium
+
+  * Remove old ppa data
+
+ -- Mystic-Mirage <mm@m10e.net>  Sat, 09 Jan 2016 02:54:11 +0200
+
+ubuntu-flashback-settings (0.1~wily1) wily; urgency=medium
+
+  * Initial commit
+
+ -- Mystic-Mirage <mm@m10e.net>  Fri, 08 Jan 2016 02:38:52 +0200
